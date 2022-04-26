@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Computer Science (Honours) in Data Science
+  uni: Tunku Abdul Rahman University College
+  year: 2019 &mdash; 2022
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  award: 3.5185 / 4.000 CGPA
+  summary: <i>To be completed on July 2022 </i>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Sijil Tinggi Persekolahan Malaysia (STPM)
+  uni: SMJK Ayer Tawar
+  year: 2017 &mdash; 2019
+    # - award: 
+  summary: Majored in Biology & Chemistry; Pure Mathematic and General Studies
+
+  - degree: Sijil Pelajaran Malaysia (SPM)
+  uni: SMJK Ayer Tawar
+  year: 2012 &mdash; 2016
+    # - award: Most likely to succeed
+  summary: Majored in Science Stream; Mathematics and Additional Mathematics
