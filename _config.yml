@@ -11,7 +11,8 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yew Lee, Wong"
-resume_title:                   "Data Science Major of Computer Science Degree, Current Data Engineer Inter @ Axrail"
+resume_title:                   "Current Data Engineer Intern @ Axrail"
+resume_update:                  "2022-04-06"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "yewlee456@gmail.com"
