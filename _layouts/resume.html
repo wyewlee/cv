@@ -156,6 +156,26 @@
       <!-- end Recognition -->
       {% endif %}
 
+      {% if site.resume_section_publishes %}
+      <!-- begin Publishes -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for recognition in site.data.publishes %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ publishes.award }}</h3>
+          <h4 class="resume-item-details">{{ publishes.organization }} &bull; {{ publishes.year }}</h4>
+          <p class="resume-item-copy">{{ publishes.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publishes -->
+      {% endif %}
+
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
