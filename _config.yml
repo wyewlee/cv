@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Yew Lee, Wong"
+resume_name:                    "Yew Lee, Wong (Open To Work)"
 resume_title:                   "Data Engineer Intern"
 
 # used for the contact button in _layouts/resume.html
