@@ -47,6 +47,13 @@
     color: inherit;
   }
 
+  .header-contact-status {
+    @include sans;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1.0rem;
+  }
+
   .title-bar {
     @include section_border;
     margin-top: 2rem;
