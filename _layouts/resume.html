@@ -134,7 +134,7 @@
     <section class="content-section">
 
       <header class="section-header">
-        <h2>Skills</h2>
+        <h2>Technical Skills</h2>
       </header>
       {% for skill in site.data.skills %}
       <div class="resume-item">
@@ -206,6 +206,38 @@
 
     </section>
     <!-- end Associations -->
+    {% endif %}
+
+    {% if site.resume_section_languages %}
+    <!-- begin Languages -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Languages</h2>
+      </header>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Language</th>
+            <th>Writing</th>
+            <th>Speaking</th>
+            <th>Reading</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for language in site.data.languages %}
+          <tr>
+            <td>{{ language.language}}</td>
+            <td>{{ language.writing }}</td>
+            <td>{{ language.reading }}</td>
+            <td>{{language.speaking }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+    <!-- end lgnauges -->
     {% endif %}
 
     {% if site.resume_section_interests %}
