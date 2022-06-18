@@ -1,4 +1,14 @@
 - language: English
-  writing: 9/10
-  reading: 9/10
-  speaking: 9/10
+  writing: 9
+  reading: 9
+  speaking: 9
+
+- language: Mandarin
+  writing: 7
+  reading: 8
+  speaking: 8
+
+- language: Malay
+  writing: 8
+  reading: 8
+  speaking: 8
