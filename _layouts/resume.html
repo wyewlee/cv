@@ -223,6 +223,7 @@
             <th>Writing</th>
             <th>Speaking</th>
             <th>Reading</th>
+            <th>Academic Qualification</th>
           </tr>
         </thead>
         <tbody>
@@ -232,10 +233,14 @@
             <td>{{ language.writing }}</td>
             <td>{{ language.reading }}</td>
             <td>{{language.speaking }}</td>
+            <td>{{language.quali}}</td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
+
+      <p style="text-align: center;"><i>(On the scale of 1-10)</i></p>
+
     </section>
     <!-- end lgnauges -->
     {% endif %}
