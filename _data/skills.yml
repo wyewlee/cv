@@ -5,7 +5,7 @@
 
 - skill: Python (Pandas, NumPy, Flask, OpenCV)
   score: 8
-  skillb: NoSQL (DynamoDB,Firebase)
+  skillb: NoSQL (DynamoDB, Firebase Realtime Database)
   scoreb: 8
 
 - skill: Jupyter Notebook
