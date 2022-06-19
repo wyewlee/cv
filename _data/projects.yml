@@ -1,16 +1,56 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Data Warehousing For Food Ordering System
+  role: SQL, PL/SQL
+  duration: 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Involved in writing SQL scripts and setting up database. Massive volument of data is generated using dummy data and inputed into the Oracle SQL Server. Reports is then written to extract insights and provide analytics from the perspective of Operational, Tactical & Strategical. PL/SQL is used to write Triggers and Procedures related to the system.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Data Warehousing For Food Ordering System
+  role: SQL
+  duration: 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Involved in writing SQL scripts and setting up data warehouses using snowflake schema. ETL scripts were written to move data into single database. Reports is then written to extract insights and provide analytics from the perspective of Operational, Tactical & Strategical. Developed for the purpose of assignment for Data Warehouse Technology subject.
+
+- project: Invisible Watermarking
+  role: Python, Open-CV
+  duration: 2021
+  # url: "#"
+  description: This project compare the robustness and imperceptibility of several invisible watermarking algorithm for Image Processing subject. Published a conference paper of this project, currently a journal paper has submitted to Institute of Engineers Malaysia (IEM). [<a href='https://github.com/wyewlee/MIW-IP-ICDXA'>GitHub Link</a>]
+
+- project: Deep-learning-based Model on Textile Defects Detection
+  role: Python, Open-CV, Keras
+  duration: 2020
+  # url: "#"
+  description: Developed a Keras-based image processing model to detect fabrics defects. [<a href='https://github.com/wyewlee/LJ-MODEL-TARUC-Data-Hackathon-2020'>GitHub Link</a>]
+
+- project: Natural Language Generation with Sign Language Recognition
+  role: Python, Open-CV, Mediapipe, T5-Transformer
+  duration: 2021
+  # url: "#"
+  description: Developed a natural language generation model using T5-Transformer to recognize sign language using Mediapipe for assignment of Natural Language Processing subject. Model will recognize sign language and produce output in sentence in the scenario of ordering food for deaf & mute person. [<a href='https://github.com/wyewlee/NLP-Ass-Gesture-Engine'>GitHub Link</a>]
+
+- project: Sentiment Analysis on President Trump Tweets on Twitter
+  role: Python, TwitterAPI, VADER
+  duration: 2021
+  # url: "#"
+  description: Perform sentiment analysis using tweets from President Trump, where data is acquired through TwitterAPI. [<a href='https://github.com/wyewlee/AI-Ass-Trump-Sentiment-Analysis'>GitHub Link</a>]
+
+- project: Malaysian Rojak Language Sentiment Analysis 
+  role: Python, Selenium Webdriver
+  duration: 2021
+  # url: "#"
+  description: For Final Year Project, i developed an machine language model to perform sentiment analysis on data obtained from political figures' Instagram comments. Comments were acquired using Selenium Webdriver. Analysis were performed on the mixed languages of Malaysia. 
+
+- project: Smart Elderly Home System
+  role: Python, Firebase Realtime Database, Raspberry Pi
+  duration: 2020
+  # url: "#"
+  description: Developed an IOT system that is catered for elderly use case at home. IOT System is powered by NoSQL-based database and Raspberry Pi as the computing power. This project is developed for the assignment of Internet-of-Things subject.
+
+- project: Static Website Developer
+  role: Jekyll, HTML, CSS
+  duration: Present
+  # url: "#"
+  description: Developed few websites using bare HTML & CSS as well as using static site generator such as Jekyll. [<a href='http://www.yewlee.tech'> CV </a>], [<a href='http://www.stateless.my'> Stateless.my Platform </a>], [<a href='http://www.simplehitz.xyz'> SimpleHitz Jam </a>], [<a href='github.com/wyewlee/Campus-Election-Website'> Campus Election Website</a>]
