@@ -3,31 +3,42 @@
 # - skill: Organizational leadership
 #   description:  
 
-#python (pandas, numpy, flask, open-cv)
-#jupyter
+- skill: Python (Pandas, NumPy, Flask, OpenCV)
+  score: 8
+  skillb: NoSQL (DynamoDB,Firebase)
+  scoreb: 8
 
-#NoSQL (DDB / Firebase Database)
-#sql
-
-#tableau
-#pl/SQL
-
-#html
-#css
-
-#Jekyll
-#d3 / leaflet
-
-#terraform
-#selenium webdriver
-
-#git
-#linux
-
-#AWS Cloud
-#Google Cloud Platform
+- skill: Jupyter Notebook
+  score: 9
+  skillb: SQL
+  scoreb: 7
 
 - skill: Tableau
-  score: 10
-  skillb: Python
-  scoreb: 10
+  score: 6
+  skillb: PL/SQL
+  scoreb: 7
+
+- skill: Selenium WebDriver
+  score: 7
+  skillb: HTML
+  scoreb: 7
+
+- skill: Jekyll
+  score: 7
+  skillb: CSS
+  scoreb: 7
+
+# - skill: Terraform???
+#   score: 10
+#   skillb: D3??? Leaflet??
+#   scoreb: 10
+
+- skill: Google Cloud Platform (GCP)
+  score: 4
+  skillb: Linux (Ubuntu)
+  scoreb: 7
+
+- skill: Amazon Web Services (AWS) Cloud
+  score: 6
+  skillb: Git
+  scoreb: 7
