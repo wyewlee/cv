@@ -1,21 +1,27 @@
 # Skills
 # # Organizational leadership
 # - skill: Organizational leadership
-#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+#   description:  
 
 #python (pandas, numpy, flask, open-cv)
-#html
-#css
-#tableau
-#sql
-#pl/SQL
 #jupyter
-#java
-#c++
-#firebase
-#linux
-#Jekyll
-#AWS
 
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+#NoSQL (DDB / Firebase Database)
+#sql
+
+#tableau
+#pl/SQL
+
+#html
+#Jekyll
+
+#git
+#linux
+
+#AWS Cloud
+#Google Cloud Platform
+
+- skill: Tableau
+  score: 10
+  skillb: Python
+  scoreb: 10

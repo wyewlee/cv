@@ -136,13 +136,28 @@
       <header class="section-header">
         <h2>Technical Skills</h2>
       </header>
-      {% for skill in site.data.skills %}
-      <div class="resume-item">
-        <h4 class="resume-item-details">{{ skill.skill }}</h4>
-        <p class="resume-item-copy">{{ skill.description }}</p>
-      </div>
-      {% endfor %}
 
+      <table>
+        <thead>
+          <tr>
+            <th>Skills</th>
+            <th>Level</th>
+            <th>Skills</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for skill in site.data.skills %}
+          <tr>
+            <td><b>{{ skill.skill}}</b></td>
+            <td>{{ skill.score }}</td>
+            <td><b>{{ skill.skillb}}</b></td>
+            <td>{{ skill.scoreb }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    <p style="text-align: center;"><i>(On the scale of 1-10)</i></p>
     </section>
     <!-- end Skills -->
     {% endif %}
