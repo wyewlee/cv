@@ -167,7 +167,7 @@
     <section class="content-section">
 
       <header class="section-header">
-        <h2>Recognition</h2>
+        <h2>Recognition & Honours</h2>
       </header>
 
       {% for recognition in site.data.recognitions %}
@@ -181,6 +181,27 @@
     </section>
     <!-- end Recognition -->
     {% endif %}
+
+    {% if site.resume_section_volunteers %}
+    <!-- begin Volunteer -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Participations & Volunteering Experiences</h2>
+      </header>
+
+      {% for exp in site.data.volunteers %}
+      <div class="resume-item">
+        <h3 class="resume-item-title" itemprop="award">{{ exp.exp }}</h3>
+        <h4 class="resume-item-details">{{ exp.organization }} &bull; {{ exp.year }}</h4>
+        <p class="resume-item-copy">{{ exp.summary }}</p>
+      </div>
+      {% endfor %}
+
+    </section>
+    <!-- end Volunteer -->
+    {% endif %}
+
 
     {% if site.resume_section_publishes %}
     <!-- begin Publishes -->
