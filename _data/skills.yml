@@ -4,19 +4,19 @@
 #   description:  
 
 - skill: Python (Pandas, NumPy, Flask, OpenCV)
-  score: 8
+  score: 7
   skillb: NoSQL (DynamoDB, Firebase Realtime Database)
-  scoreb: 8
+  scoreb: 6
 
 - skill: Jupyter Notebook
-  score: 9
+  score: 8
   skillb: SQL
-  scoreb: 7
+  scoreb: 6
 
 - skill: Tableau
   score: 6
   skillb: PL/SQL
-  scoreb: 7
+  scoreb: 6
 
 - skill: Selenium WebDriver
   score: 7
