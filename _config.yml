@@ -17,11 +17,11 @@ resume_title:                   "Data Science Major Fresh Graduate"
 resume_contact_email:           "yewlee456@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-# resume_contact_telephone:       "----"
+resume_contact_telephone:       "+(Six Zero)11-5421 8853"
 resume_contact_address:         "Kuala Lumpur, Malaysia"
 
 # resume_header_contact_info:     "Kuala Lumpur, Malaysia • ---- • yewlee456@gmail.com"
-resume_header_contact_info:     "Kuala Lumpur, Malaysia • yewlee456@gmail.com"
+resume_header_contact_info:     "Kuala Lumpur, Malaysia • +(60)11-5421 (8853) • yewlee456@gmail.com"
 display_header_contact_info:    "true"
 resume_header_status:           "Open To Work Opportunities."
 
