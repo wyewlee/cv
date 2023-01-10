@@ -3,12 +3,12 @@
 - company: Sitecore Malaysia Sdn. Bhd.
   position: Associate Software Engineer
   duration: September 2022 &mdash; Present
-  summary: 
+  summary: <ul class="resume-item-list"><li>Sitecore is a customer experience management company that provides web content management, and multichannel marketing automation software. The company was founded in 2001 in Denmark, currently headquartered in San Francisco, US.</li><li>Currently a core member of Product Support Team for Digital Asset Management Platform.</li><li>Tasked to identify bugs and solve raised issue on the SAAS product.</li><li>Practical Experience on C#, ElasticSearch, Kibana, Grafana, ReactJs </li>
 
 - company: Handshakes Technology (M) Sdn. Bhd.
   position: Data Engineer
   duration: Aug 2022 &mdash; September 2022
-  summary: 
+  summary: <ul class="resume-item-list"><li>Trusted by regulators and financial institutions, Handshakes is a reliable due diligence solution provider based in Singapore.</li><li>Assigned under the core team to focus on redesign of legacy ETL pipeline.</li><li>Involved in the understanding of harmonising information of business entities through several company registry dataset of several SouthEast Asia countries.</li><li>Involved in setting up AWS-based EMR pipeline as proof of concept of new ETL pipeline. </li><li>Practical experience on Scala, MSSQL, Lambda, Amazon EMR, Amazon Neptune.</li>
 
 
 - company: Axrail Sdn. Bhd.
