@@ -1,9 +1,9 @@
 # Jobs
 
-# - company: Sitecore Malaysia Sdn. Bhd.
-#   position: Associate Software Engineer
-#   duration: September 2022 &mdash; Present
-#   summary: <ul class="resume-item-list"><li>Sitecore is a customer experience management company that provides web content management, and multichannel marketing automation software. The company was founded in 2001 in Denmark, currently headquartered in San Francisco, US.</li><li>Currently a core member of Product Support Team for Digital Asset Management Platform.</li><li>Tasked to identify bugs and solve raised issue on the SAAS product.</li><li>Practical Experience on C#, ElasticSearch, Kibana, Grafana, ReactJs </li>
+- company: Sitecore Malaysia Sdn. Bhd.
+  position: Associate Software Engineer
+  duration: September 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Sitecore is a customer experience management company that provides web content management, and multichannel marketing automation software. The company was founded in 2001 in Denmark, currently headquartered in San Francisco, US.</li><li>Currently a core member of Product Support Team for Digital Asset Management Platform.</li><li>Tasked to identify bugs and solve raised issue on the SAAS product.</li><li>Practical Experience on C#, ElasticSearch, Kibana, Grafana, ReactJs, OpenLens, Kubernetes </li>
 
 - company: Handshakes Technology (M) Sdn. Bhd.
   position: Data Engineer
