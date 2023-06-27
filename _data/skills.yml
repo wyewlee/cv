@@ -5,7 +5,7 @@
 
 - skill: Python (Pandas, NumPy, Flask, OpenCV)
   score: 7
-  skillb: NoSQL (DynamoDB, Firebase Realtime Database)
+  skillb: NoSQL (DynamoDB, Firebase Realtime Database, Firestore)
   scoreb: 6
 
 - skill: Jupyter Notebook
@@ -28,10 +28,10 @@
   skillb: CSS
   scoreb: 7
 
-# - skill: Terraform???
-#   score: 10
-#   skillb: D3??? Leaflet??
-#   scoreb: 10
+- skill: C#
+  score: 5
+  skillb: NextJS
+  scoreb: 5
 
 - skill: Google Cloud Platform (GCP)
   score: 4
