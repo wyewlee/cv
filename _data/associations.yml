@@ -26,18 +26,6 @@
 #   url: 
 #   summary: <li>TARCian Alumni Association (TAA) is the official represenative body of all former students of TARC and TAR UC. </li><li>TAA represents 200,000 alumni and was registered with the Registry of Societies Malaysia on 3rd February 2012. </li><li>Joined as a member of the Youth Section to contribute back to alma mater.
 
-- organization: Student Representative Council, Tunku Abdul Rahman University College
-  role: Students' President
-  year: 2021 - 2022
-  url: 
-  summary: <li>Elected with the most votes into the Student Representative Council as Campus Wide Representative. </li><li>Internally elected among 19 Representatives to hold the position as Students’ President. </li><li>Leading a team of 19 Representatives including postgraduate, undergraduate and international students representatives to represent 26,000 students across 6 campuses. </li><li>Delivered many intellectual activities that increase students’ involvement. </li><li>Involved in handling concerns and issues of students by dealing directly with The Senior Management.
-
-- organization: Degree of Computer Science (Data Science) May 2019 Intake
-  role: Programme Representative
-  year: 2019 - 2022
-  url: 
-  summary: <li>Elected programme representative to represent students of the same intake on Faculty-level. </li><li>Solved and involved in handling any concerns and academic issues
-
 # - organization: Green Society, Tunku Abdul Rahman University 
 #   role: Organizing Chairperson - Green Society Environmental Series Talk
 #   year: 2021
@@ -50,3 +38,14 @@
 #   url: 
 #   summary: <li>Elected as Batch Representative for the intake of the First Aid Unit. </li><li>Elected as group leader to lead a group of 7 members in weekly activity for 2 semesters. </li><li>Involved in delivering Blood Donation Drive which achieved 2000 donors.
 
+- organization: Student Representative Council, Tunku Abdul Rahman University College
+  role: Students' President
+  year: 2021 - 2022
+  url: 
+  summary: <li>Elected with the most votes into the Student Representative Council as Campus Wide Representative. </li><li>Internally elected among 19 Representatives to hold the position as Students’ President. </li><li>Leading a team of 19 Representatives including postgraduate, undergraduate and international students representatives to represent 26,000 students across 6 campuses. </li><li>Delivered many intellectual activities that increase students’ involvement. </li><li>Involved in handling concerns and issues of students by dealing directly with The Senior Management.
+
+- organization: Degree of Computer Science (Data Science) May 2019 Intake
+  role: Programme Representative
+  year: 2019 - 2022
+  url: 
+  summary: <li>Elected programme representative to represent students of the same intake on Faculty-level. </li><li>Solved and involved in handling any concerns and academic issues
